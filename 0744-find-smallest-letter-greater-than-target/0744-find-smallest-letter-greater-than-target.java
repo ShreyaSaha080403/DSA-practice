@@ -8,7 +8,7 @@ class Solution {
             int m=(e+s)/2;
             
             if (letters[m]>target){
-                e=e-1;
+                e=m-1;
             }
             else{
                 s=m+1;
