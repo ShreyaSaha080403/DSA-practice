@@ -52,9 +52,14 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
