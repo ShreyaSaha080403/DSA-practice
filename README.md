@@ -54,6 +54,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +68,9 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
