@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
