@@ -55,25 +55,23 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
       
         
-        int l=0,r=0,sum=0;
+        int l=0,r=0,sum=arr[0];
         while(r<n){
-            sum+=arr[r];
+            
             while(sum>s&&l<=r){
-                sum=sum-arr[l];
+                sum=sum-arr[l];///
                 l++;
-                if(sum==s&&l<=r){
-                list.add(l + 1);
-                list.add(r + 1);
-                return list;
-            }
+                
             }
             if(sum==s&&l<=r){
                 list.add(l + 1);
                 list.add(r + 1);
                 return list;
+            }
           
-             }
+             
           r++;
+          if(r<n) sum+=arr[r];
         }
         list.add(-1);
         return list;
