@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0141-linked-list-cycle) |
