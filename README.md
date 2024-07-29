@@ -30,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
