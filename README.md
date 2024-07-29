@@ -20,6 +20,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
@@ -81,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
