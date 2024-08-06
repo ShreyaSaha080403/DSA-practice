@@ -35,6 +35,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
+| [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -70,6 +71,7 @@
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
