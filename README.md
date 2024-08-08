@@ -73,6 +73,7 @@
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 ## Math
 |  |
@@ -99,6 +100,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
