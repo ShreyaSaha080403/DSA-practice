@@ -57,6 +57,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -104,6 +105,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
