@@ -30,6 +30,7 @@
 | [0031-next-permutation](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@
 | [0031-next-permutation](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0143-reorder-list) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
