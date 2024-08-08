@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
@@ -70,6 +71,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
@@ -133,11 +135,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -147,4 +151,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
