@@ -28,6 +28,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
