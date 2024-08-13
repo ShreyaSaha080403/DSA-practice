@@ -78,6 +78,7 @@
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
@@ -110,6 +111,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0812-rotate-string) |
@@ -155,6 +157,7 @@
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
