@@ -37,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -60,6 +61,7 @@
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -121,6 +123,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -162,6 +165,7 @@
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
