@@ -6,10 +6,12 @@ class Solution {
         int i=0,j=0;
         while(i<g.length&& j<s.length){
             if(g[i]<=s[j]){
-                cnt++;
                 i++;
+                j++;
+                cnt++;
+            }else{
+                j++;
             }
-            j++;
         }
         return cnt;
     }
