@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0966-binary-subarrays-with-sum) |
