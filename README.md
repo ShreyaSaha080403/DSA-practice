@@ -49,6 +49,7 @@
 | [1929-concatenation-of-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
 | ------- |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0048-rotate-image) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
