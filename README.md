@@ -47,6 +47,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1929-concatenation-of-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -105,6 +106,7 @@
 | [0231-power-of-two](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
