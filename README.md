@@ -38,6 +38,7 @@
 | [0169-majority-element](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +161,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
