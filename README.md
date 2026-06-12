@@ -62,6 +62,7 @@
 | [0061-rotate-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0143-reorder-list) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0242-valid-anagram) |
