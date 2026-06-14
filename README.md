@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
