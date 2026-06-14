@@ -13,7 +13,9 @@ class Solution:
                     flowerbed[i]=1
                     count+=1
                 else:
-                    continue    
+                    continue  
+            if count >= n:
+                    return True          
         return count>=n                
 
 
