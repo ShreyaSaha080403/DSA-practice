@@ -45,6 +45,7 @@
 | [0605-can-place-flowers](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0860-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
