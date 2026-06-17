@@ -140,6 +140,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2032-largest-odd-number-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [1929-concatenation-of-array](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Union Find
 |  |
 | ------- |
