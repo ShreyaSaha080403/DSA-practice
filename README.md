@@ -80,6 +80,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaSaha080403/DSA-practice/tree/master/0268-missing-number) |
